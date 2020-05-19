@@ -1,0 +1,19 @@
+body {
+	background-color: darkviolet;
+}
+
+h1 {
+	color: white;
+	font-size: 50px;
+	font-family: garamond;
+}
+
+p {
+	color: #fff01f;
+	font-size: 20px;
+	font-family: helvetica;
+}
+
+#firstId {
+	font-size: 20px;
+}
